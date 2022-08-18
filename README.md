@@ -1,9 +1,9 @@
 ## RAMSUN's GitHub 👋
 
-### 2022/04 ~ STUDY
+### 2022/04 ~ STUDY [* Daniel DJ 강의 수강 중입니다.]
 ⚡ Python Start Level <br>
 🔭 ML BASIC <br>
-🌱 Data Analysis (Data Set Basic ~ EDA ~ ML Basic) <br>
+🌱 Data Analysis [진행 중](https://github.com/c920720a/MyDataAnalysis_2022) <br>
 
 ### PROJECT
 😄 요리데이터 분석 [저장소 이동](https://github.com/c920720a/c920720a/blob/fae8a2f523faac05d99d7e33e475cfc7b6d3fd99/20220506_%EB%B9%8C%EB%93%9C%EC%97%85.pdf) <br>
